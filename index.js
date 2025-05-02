@@ -12,7 +12,7 @@ app.use(cors({
 }));
 
 app.get("/", (req, res) => {
-    res.send("Shayari API Running");
+    res.send("API Is Running");
 });
 
 app.get("/language-list", (req, res) => {
