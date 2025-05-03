@@ -91,6 +91,12 @@ curl "http://localhost:3000/language/english/random"
 2. Connect it to Vercel
 3. Done! You’ll have a public URL like: https://your.vercel.app/language/english/random
 
+## 🛠️ Setup
+
+Watching Following Video You Can Host This Api & Gain Some Knowledge 👇
+
+[![Watch the video](https://img.youtube.com/vi/n5yxR1aOmlw/hqdefault.jpg)](https://youtu.be/n5yxR1aOmlw)
+
 ## 📄 License
 
 This project is licensed under the License - see the [LICENSE](https://github.com/NotFlexCoder/shayari-api/blob/main/LICENSE) file for details.
